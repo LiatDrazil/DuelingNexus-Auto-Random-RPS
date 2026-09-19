@@ -2,6 +2,8 @@
 
 A Tampermonkey userscript designed to automatically click the random Rock-Paper-Scissors (RPS) button in Dueling Nexus duels, streamlining the match start process.
 
+![Exemple](./images/Exemple.png)
+
 ## Features
 
 * **Automated Clicks:** Instantly clicks the `#game-rps-random` button the moment it appears and becomes visible on the screen.
