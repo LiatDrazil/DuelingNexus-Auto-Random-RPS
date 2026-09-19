@@ -10,7 +10,10 @@ A Tampermonkey userscript designed to automatically click the random Rock-Paper-
 
 ## Installation
 
-1. **Install a Userscript Manager:** Make sure you have the [Tampermonkey](https://www.tampermonkey.net/) extension installed in your web browser.
+To use this userscript, you need a browser extension that supports userscripts (such as **Tampermonkey**, **Violentmonkey**, or **Greasemonkey**).
+
+1. Install a userscript manager extension for your browser:
+   * [Tampermonkey for Chrome/Firefox/Edge](https://www.tampermonkey.net/)
 2. **Install the Script:** Click on the link below to install the script directly through Tampermonkey:
    * [Install script.user.js](https://raw.githubusercontent.com/LiatDrazil/DuelingNexus-Auto-Random-RPS/main/script.user.js)
 3. **Confirm Installation:** Tampermonkey will prompt you to confirm the installation. Click **Install**.
